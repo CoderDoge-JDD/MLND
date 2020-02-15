@@ -1,1 +1,2 @@
-# Machine Learning Nanodegree - Udacity
+# MLND
+Machine Learning Nanodegree - Udacity
